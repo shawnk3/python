@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		},
+		"python.pythonPath": "C:\\Users\\shawn\\AppData\\Local\\Programs\\Python\\Python38\\python.exe"
+	}
+}
